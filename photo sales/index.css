@@ -50,3 +50,25 @@ section#feature ul li{
 	line-height: 2.0em;
 	list-style: none;
 }
+
+footer{
+	background: #333;
+	color: #fff;
+	padding: 2% 5%
+}
+
+footer li{
+	float:left;
+	padding: 0 10px 0 10px;
+	list-style: none;
+
+}
+
+footer a {
+	color: #fff;
+
+}
+
+footer p{float: right;}
+
+

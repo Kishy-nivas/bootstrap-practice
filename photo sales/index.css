@@ -14,12 +14,39 @@
 .jumbotron{
 	background: url('images/header1.jpg') no-repeat top center;
 	color: white;
-	height: 540px;
+	height: 500px;
 	overflow: none;
 }
-.jumbotron .app-btn{
+.jumbotron img.app-btn{
 	width: 40%;
 	margin-right: 30px;
 
 }
+.jumbotron h1{
+	margin-top: 60px;
+}
+.jumbotron p{
+	margin-bottom: 40px;
+}
 
+img.demo{
+	width: 100%;
+	padding: 3px;
+	border: 1px solid grey;
+}
+
+section{
+	padding: 70px 0 40px 0;
+}
+section#feature{
+	background: #1caa98;
+	color: white;
+	padding: 40px;
+	overflow: auto;
+}
+
+section#feature ul li{
+	font-size: 22px;
+	line-height: 2.0em;
+	list-style: none;
+}

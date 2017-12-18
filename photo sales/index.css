@@ -1,0 +1,25 @@
+
+
+ .nav li a:hover{
+    background: orange;
+    }
+
+    header{
+    	height: 400px;
+    	position: absolute;
+    }
+.em-text{
+	color: lightskyblue!important;
+}
+.jumbotron{
+	background: url('images/header1.jpg') no-repeat top center;
+	color: white;
+	height: 540px;
+	overflow: none;
+}
+.jumbotron .app-btn{
+	width: 40%;
+	margin-right: 30px;
+
+}
+

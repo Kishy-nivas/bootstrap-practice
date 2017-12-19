@@ -51,6 +51,17 @@ section#feature ul li{
 	list-style: none;
 }
 
+section#title-bar{
+	padding: 0;
+	height: 80px;
+	background: #1caa98;
+	color: white;
+}
+
+section#title-bar h1{
+	
+
+}
 footer{
 	background: #333;
 	color: #fff;

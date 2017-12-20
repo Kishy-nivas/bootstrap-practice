@@ -1,0 +1,65 @@
+body{
+	background: cornsilk;
+}
+.img-contact{
+	height: 50px;
+}
+.fb-contact{
+	height: 35px;
+	width: 35px;
+	padding: 5px;
+}
+
+body{
+	
+	background-color: #ededed;
+	font-family: 'Open sans', Arial, Tahoma;
+	color: #363636;
+	font-size: 16px;
+
+}
+
+strong,h2 {
+	color: #3b5a76;
+}
+
+.container-main{
+	background: #fff;
+	margin-top: 80px;
+	padding: 0 30px, 30px,30px;
+}
+
+header{
+	min-height: 40px;
+	overflow: auto;
+}
+header h1{
+	margin: 0;
+	padding: 10px 0 0 0;
+	font-size: 2.2em;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	text-align: center;
+	line-height: 1.4em;
+}
+.profile-img{
+	width: 163px;
+	display: block;
+	margin: auto;
+	margin-top: -80px;
+
+
+}
+.line {
+
+
+}
+.row{
+	margin-bottom: 30px;
+}
+
+.media {
+	background-color: silver;
+	padding: 10px;
+}
